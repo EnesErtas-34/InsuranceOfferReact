@@ -1,70 +1,20 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# InsuranceOffer
+**Euroke Seyahat Sağlık Sigortası Klon** <hr>
+**Proje Detayları** <br> 
+*React Js MUI ile oluşturulmuş Fullstack web projesinin Frontend bölümüdür.Bu proje, kullanıcıların seyahat sağlık sigortası teklifleri almasını, ödeme yapmasını ve poliçe bilgilerini görüntülemesini sağlayan bir uygulamadır<br>
+**Kullanılan Teknolojiler ve Uygulamalar**<br>
+**.** React JS MUI <br>
+**.** Redux  <br>
+**.** Axios<br>
+**.** Yup,Formik <br>
+**Proje Görselleri**<hr> 
+![EurokeKisiselBilgiler](https://github.com/user-attachments/assets/2b19f41f-5977-4410-a339-308cf263e7ee)
+![Eureko2](https://github.com/user-attachments/assets/9bb35dd5-ccaf-43b2-a377-24f8d04b7d09)
+![eureko3](https://github.com/user-attachments/assets/f29d04de-7068-4b89-9023-95873d8feead)
+![Eureko4](https://github.com/user-attachments/assets/a03a7b1b-7327-4f1b-93bd-6102598f08bd)
+![Eureko5](https://github.com/user-attachments/assets/2a7b0d66-c54f-4a1d-a49f-dbd13e5e191d)
+![Eureko6](https://github.com/user-attachments/assets/9ca9550d-3e76-4ba2-bd20-3e61095038e4)
+![Eureko7](https://github.com/user-attachments/assets/134f7fe6-2fbb-45cd-bdb4-fbe70b628fa1)
+![EurekoSweetAlert](https://github.com/user-attachments/assets/1412366a-4cfe-467a-9e80-35a269f45110)
+![Eureko8](https://github.com/user-attachments/assets/de214141-f311-4096-9d5c-af6c9b36ae00)
+![DatabaseEuroke](https://github.com/user-attachments/assets/52be0147-c637-4762-a87f-b01bf37bbf23)
