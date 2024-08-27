@@ -1,7 +1,7 @@
 # InsuranceOffer
 **Euroke Seyahat Sağlık Sigortası Klon** <hr>
 **Proje Detayları** <br> 
-*React Js MUI ile oluşturulmuş Fullstack web projesinin Frontend bölümüdür.Bu proje, kullanıcıların seyahat sağlık sigortası teklifleri almasını, ödeme yapmasını ve poliçe bilgilerini görüntülemesini sağlayan bir uygulamadır<br>
+*React JS MUI ile oluşturulmuş Fullstack web projesinin Frontend bölümüdür.Bu proje, kullanıcıların seyahat sağlık sigortası teklifleri almasını, ödeme yapmasını ve poliçe bilgilerini görüntülemesini sağlayan bir uygulamadır<br>
 **Kullanılan Teknolojiler ve Uygulamalar**<br>
 **.** React JS MUI <br>
 **.** Redux  <br>
